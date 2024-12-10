@@ -1,0 +1,2 @@
+// buraya dil yazıları
+// kaç tane dili destekliyorsa buraya gir
